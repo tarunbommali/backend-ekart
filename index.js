@@ -34,4 +34,3 @@ mongoose
   });
 
 module.exports.handler = serverless(app);
-s
